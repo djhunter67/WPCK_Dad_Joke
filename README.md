@@ -6,7 +6,7 @@
 
 ## Basic dsitribtion of compute resources
 
-![Uploading WPCK_front_dist.gif…]()
+![WPCK_front_dist](https://user-images.githubusercontent.com/25860608/160671384-72197028-a0be-4710-9986-6579203ef4b3.gif)
 
 ## Basic functionality
 
